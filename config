@@ -1,0 +1,5 @@
+# Monchey key for GitHub
+Host studio.github.com
+	HostName github.com
+	PreferredAuthentications publickey
+	IdentityFile ~/.ssh/monchey_rsa
